@@ -1,0 +1,28 @@
+body {
+    font-family: arial;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #eabcac;
+}
+
+#about {
+    background-color: #f7dfd4;
+}
+
+#projects {
+    background-color: #eabcac;
+}
+
+#contact {
+    background-color: #f7dfd4;
+}
+
+footer {
+    background-color: #874e4c;
+}
+
+section {
+    padding-top: 5rem;
+}
